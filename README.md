@@ -1,6 +1,22 @@
 # WebScraping-Project
 A webscraping project to get all the promotional deals from Rossmann's official website.
 
+Discount on a product is something everyone looks for. Our team (Me and my teammate) tried to achieve an access to all
+discount details and enjoy exploring the best out of those deals. One of the chain drug stores, Rossmann has a
+very varied product offering. It has also an online store. The website has a separate page called Promotions
+for discounted products. At the time of this project, there are more than 6000 products on promotion. Going
+over each of them and finding the best deal can be overwhelming for a user. Scraping discounted products
+provides detailed information about each product in a short period. In the end, a user has an access to:
+• Brand and products names
+• The original and discounted price
+• Discounted products by percentage, or product category | which can be filtered to see the most
+discounted products.
+• Tp filter for only reviewed/rating products since all of the products are not reviewed.
+• To easily detect if a product is not available in an online store.
+This data can be used furthermore for data analysis. For example, one may interested in if there is a significant
+relationship between product category and discount rate. As the promotional products change, two scraping
+results can be compared to each other for further analysis.
+
 - - - - -
 ####################
 #  BEAUTIFUL SOUP  #
